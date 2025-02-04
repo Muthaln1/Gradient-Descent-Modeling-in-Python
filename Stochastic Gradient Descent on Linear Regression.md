@@ -245,7 +245,7 @@ plt.show()
 
 
     
-![png](output_16_1.png)
+![png](https://github.com/Muthaln1/Gradient-Descent-Modeling-in-Python/blob/main/Average%20number%20of%20people%20in%20the%20gym.png)
     
 
 
